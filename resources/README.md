@@ -41,10 +41,6 @@ Below are links to resources that make plotting easier for all sorts of tasks, e
 - [Adjusting observed values](https://towardsai.net/p/data-science/how-when-and-why-should-you-normalize-standardize-rescale-your-data-3f083def38ff)
 
 
-
-
-
-
 ## Podcasts
 
 Below are some python-based podcasts that I highly recommend.
@@ -81,7 +77,9 @@ Below are some resources for association rules.
 - [The Math behind PCA](https://towardsdatascience.com/the-mathematics-behind-principal-component-analysis-fff2d7f4b643)
 
 
+## Dimensionality Wrapup
 
+-[How to use tsne effectively](https://distill.pub/2016/misread-tsne/)
 
 
 
