@@ -313,7 +313,7 @@ from sklearn.cluster import KMeans
 # lets put this back into a dataframe
 
 # what do we have for a scatterplot?  overlay the label 
-sns.scatterplot(x="x", y="y", hue="label", data=umap_df)
+# sns.scatterplot(x="x", y="y", hue="label", data=umap_df)
 
 ################################## Short(er) Breakout Challenge
 ## use diamonds dataset, take a sample of 5000 rows 
