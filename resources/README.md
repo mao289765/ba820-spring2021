@@ -82,6 +82,7 @@ Below are some resources for association rules.
 -[How to use tsne effectively](https://distill.pub/2016/misread-tsne/)
 -[PCA vs TSNE vs UMAP](https://towardsdatascience.com/dimensionality-reduction-for-data-visualization-pca-vs-tsne-vs-umap-be4aa7b1cb29)
 -[Another good TSNE and UMAP review and tool](https://pair-code.github.io/understanding-umap/)
+-[How UMAP works](https://towardsdatascience.com/how-exactly-umap-works-13e3040e1668)
 - [Recommendation Engines in python](https://realpython.com/build-recommendation-engine-collaborative-filtering/)
 
 
