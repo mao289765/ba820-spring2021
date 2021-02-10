@@ -1,11 +1,13 @@
 faker==5.8.0
 flask==1.1.2
 google-cloud-bigquery-storage==2.2.1
-grpcio==1.35.0
 jupyterlab==3.0.6
 pandas-gbq==0.14.1
 pantab==1.1.1
 pip-chill==1.0.1
 pyarrow==3.0.0
 scikit-plot==0.3.7
+scikit-surprise==1.1.1
 seaborn==0.11.1
+turicreate==6.4.1
+umap-learn==0.5.1
