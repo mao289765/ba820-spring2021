@@ -56,6 +56,10 @@ Below are some python-based podcasts that I highly recommend.
 - [Standardization and Normalization](https://www.analyticsvidhya.com/blog/2020/04/feature-scaling-machine-learning-normalization-standardization/)
 - [Scale, Standardize, or Normalize with Scikit-Learn](https://towardsdatascience.com/scale-standardize-or-normalize-with-scikit-learn-6ccc7d176a02)
 
+## EDA
+
+- [Sweetviz: an EDA tool](https://github.com/fbdesignpro/sweetviz)
+
 
 ## Assocation Rules
 
