@@ -90,3 +90,15 @@ Below are some resources for association rules.
 - [Recommendation Engines in python](https://realpython.com/build-recommendation-engine-collaborative-filtering/)
 
 
+## Text Analytics
+
+-[Good discussion on Zipfs Law](https://medium.com/@_init_/using-zipfs-law-to-improve-neural-language-models-4c3d66e6d2f6)
+
+## A (soon-to-be long) list of nlp resources in python
+
+- [python libraries for nlp](https://towardsdatascience.com/python-libraries-for-natural-language-processing-be0e5a35dd64)
+-["top" python libraries based on GH stars](https://kleiber.me/blog/2020/08/26/top-10-python-nlp-libraries-2020/)
+
+## Scikit Resources
+
+- [Good review of Multiclass Metrics via Classification Report](https://towardsdatascience.com/multi-class-metrics-made-simple-part-ii-the-f1-score-ebe8b2c2ca1)
