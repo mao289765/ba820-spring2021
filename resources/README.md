@@ -98,6 +98,7 @@ Below are some resources for association rules.
 
 - [python libraries for nlp](https://towardsdatascience.com/python-libraries-for-natural-language-processing-be0e5a35dd64)
 -["top" python libraries based on GH stars](https://kleiber.me/blog/2020/08/26/top-10-python-nlp-libraries-2020/)
+-[Podcast: Conversational AI](https://www.superdatascience.com/podcast/conversational-ai)
 
 ## Scikit Resources
 
