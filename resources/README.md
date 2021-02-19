@@ -93,6 +93,9 @@ Below are some resources for association rules.
 ## Text Analytics
 
 -[Good discussion on Zipfs Law](https://medium.com/@_init_/using-zipfs-law-to-improve-neural-language-models-4c3d66e6d2f6)
+-[TFiDF in 2020 = Experimentation is Important!](https://towardsdatascience.com/a-gentle-introduction-to-calculating-the-tf-idf-values-9e391f8a13e5)
+
+
 
 ## A (soon-to-be long) list of nlp resources in python
 
