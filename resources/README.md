@@ -98,7 +98,13 @@ Below are some resources for association rules.
 
 ## Regular Expressions
 
+-[regex101](https://regex101.com/)
+-[Regex Tutorial with samples](https://www.oreilly.com/content/an-introduction-to-regular-expressions/)
 -[regex resource](https://www.regular-expressions.info/reference.html)
+
+> Note the screenshot below:  Great resource overall for debugging and reviewing regex
+
+![](https://snipboard.io/G0pfiK.jpg)
 
 ## Text Analytics
 
