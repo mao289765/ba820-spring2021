@@ -12,7 +12,9 @@ At [this URL](https://console.cloud.google.com/bigquery?d=SMSspam&p=questrom&pag
 
 The dataset (i.e. Database) has 3 tables:
 
-- train / test / sample
+- train / test / sample-submission
+
+> `SELECT * FROM `questrom.SMSspam.sample-submission` LIMIT 10`
 
 Train is the dataset to fit your model, test has the features but lacks a target, and sample submission is a reference file so that can debug your submissions against a valid file.
 
