@@ -35,10 +35,11 @@ Below are links to resources that make plotting easier for all sorts of tasks, e
 | skplot | Useful plots for ML via sklearn objects | https://scikit-plot.readthedocs.io/en/stable/index.html |
 
 
-## Unrelated (But) Great Tutorials
+## Unrelated (But) Great Tutorials and Resources
 
 - [Modern pandas - tidyverse like features via chaining!](https://tomaugspurger.github.io/method-chaining)
 - [Adjusting observed values](https://towardsai.net/p/data-science/how-when-and-why-should-you-normalize-standardize-rescale-your-data-3f083def38ff)
+- [Chrome Extensions for ML Engineers + Data scraping!](https://pub.towardsai.net/must-have-chrome-extensions-for-machine-learning-engineers-and-data-scientists-5968bda69ee)
 
 
 ## Podcasts
