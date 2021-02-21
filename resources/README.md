@@ -91,6 +91,10 @@ Below are some resources for association rules.
 - [Recommendation Engines in python](https://realpython.com/build-recommendation-engine-collaborative-filtering/)
 
 
+## Regular Expressions
+
+-[regex resource](https://www.regular-expressions.info/reference.html)
+
 ## Text Analytics
 
 -[Good discussion on Zipfs Law](https://medium.com/@_init_/using-zipfs-law-to-improve-neural-language-models-4c3d66e6d2f6)
