@@ -408,7 +408,7 @@ docs = ['I like golf',
 
 ## review the slides at the end of this module
 ## predict spam
-## objetive =  based on f1
+## objetive =  based on accuracy
 ## only input is text, but you can derive features
 ## limited time, but how do you maximize your time (and the model?)
 ## HINTS:
