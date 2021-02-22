@@ -46,12 +46,17 @@ Below are links to resources that make plotting easier for all sorts of tasks, e
 
 ## Podcasts
 
+#### General Podcasts
 Below are some python-based podcasts that I highly recommend.
 
 - [https://pythonbytes.fm/](https://pythonbytes.fm/)
 - [https://talkpython.fm/](https://talkpython.fm/)
 - [Rasa Chats - Conversational AI](https://anchor.fm/rasachats)
 - [Voice Bot Podcast](https://voicebot.ai/voicebot-podcasts/)
+
+#### Specific Episodes
+
+- [Knowledge Graphs](https://twimlai.com/building-the-product-knowledge-graph-at-amazon-with-luna-dong/)
 
 
 ## Data Cleaning
@@ -95,7 +100,13 @@ Below are some resources for association rules.
 
 ## Regular Expressions
 
+-[regex101](https://regex101.com/)
+-[Regex Tutorial with samples](https://www.oreilly.com/content/an-introduction-to-regular-expressions/)
 -[regex resource](https://www.regular-expressions.info/reference.html)
+
+> Note the screenshot below:  Great resource overall for debugging and reviewing regex
+
+![](https://snipboard.io/G0pfiK.jpg)
 
 ## Text Analytics
 
@@ -103,7 +114,7 @@ Below are some resources for association rules.
 -[TFiDF in 2020 = Experimentation is Important!](https://towardsdatascience.com/a-gentle-introduction-to-calculating-the-tf-idf-values-9e391f8a13e5)
 - [python libraries for nlp](https://towardsdatascience.com/python-libraries-for-natural-language-processing-be0e5a35dd64)
 -["top" python libraries based on GH stars](https://kleiber.me/blog/2020/08/26/top-10-python-nlp-libraries-2020/)
--[Podcast: Conversational AI](https://www.superdatascience.com/podcast/conversational-ai)
+
 
 ## Scikit Resources
 
