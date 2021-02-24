@@ -41,6 +41,7 @@ Below are links to resources that make plotting easier for all sorts of tasks, e
 - [Adjusting observed values](https://towardsai.net/p/data-science/how-when-and-why-should-you-normalize-standardize-rescale-your-data-3f083def38ff)
 - [Chrome Extensions for ML Engineers + Data scraping!](https://pub.towardsai.net/must-have-chrome-extensions-for-machine-learning-engineers-and-data-scientists-5968bda69ee)
 - [Hidden APIS for scraping](https://towardsdatascience.com/a-single-line-of-python-code-scraping-dataset-from-webpages-c9d2a8805d61)
+- [Scraping Google Maps Reviews](https://towardsdatascience.com/scraping-google-maps-reviews-in-python-2b153c655fc2)
   
 
 
@@ -114,6 +115,8 @@ Below are some resources for association rules.
 -[TFiDF in 2020 = Experimentation is Important!](https://towardsdatascience.com/a-gentle-introduction-to-calculating-the-tf-idf-values-9e391f8a13e5)
 - [python libraries for nlp](https://towardsdatascience.com/python-libraries-for-natural-language-processing-be0e5a35dd64)
 -["top" python libraries based on GH stars](https://kleiber.me/blog/2020/08/26/top-10-python-nlp-libraries-2020/)
+-[Great Resource on text pre-processing use-cases](https://towardsdatascience.com/nlp-building-text-cleanup-and-preprocessing-pipeline-eba4095245a0)
+
 
 
 ## Scikit Resources
