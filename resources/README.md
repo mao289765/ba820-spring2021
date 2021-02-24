@@ -116,6 +116,7 @@ Below are some resources for association rules.
 - [python libraries for nlp](https://towardsdatascience.com/python-libraries-for-natural-language-processing-be0e5a35dd64)
 -["top" python libraries based on GH stars](https://kleiber.me/blog/2020/08/26/top-10-python-nlp-libraries-2020/)
 -[Great Resource on text pre-processing use-cases](https://towardsdatascience.com/nlp-building-text-cleanup-and-preprocessing-pipeline-eba4095245a0)
+-[Paper on Emoji Sentiment](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0144296)
 
 
 
