@@ -21,6 +21,10 @@ Below are links to fantastic R and python resources for all sorts of data scienc
 | xaringanExtra | Extensions for xaringan (build slide decks in R!) | https://pkg.garrickadenbuie.com/xaringanExtra/#/README?id=xaringanextra|
 | jupyterlab 3 | Many great new features added, included language support | https://blog.jupyter.org/jupyterlab-3-0-is-out-4f58385e25bb |
 
+#### Links
+
+-[Crowdsourced IoT - feed my plant](https://github.com/t-jayw/pleasetakecareofmyplant?__s=iblfnbpk1c88zpstc62v)
+
 
 ## Cheatsheets
 
@@ -121,6 +125,10 @@ Below are some resources for association rules.
 -[If you must wordcloud: A good tutorial](https://www.datacamp.com/community/tutorials/wordcloud-python)
 -[TextBlob](https://textblob.readthedocs.io/en/dev/)
 -[nltk sentiment - Vader - good overview of other toolkits](https://realpython.com/python-nltk-sentiment-analysis/#using-nltks-pre-trained-sentiment-analyzer)
+-[Paper: Measuring Word Significance](https://arxiv.org/pdf/1508.02297.pdf)
+
+
+
 
 
 ## Scikit Resources
