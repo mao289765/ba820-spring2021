@@ -42,6 +42,7 @@ Below are links to resources that make plotting easier for all sorts of tasks, e
 - [Chrome Extensions for ML Engineers + Data scraping!](https://pub.towardsai.net/must-have-chrome-extensions-for-machine-learning-engineers-and-data-scientists-5968bda69ee)
 - [Hidden APIS for scraping](https://towardsdatascience.com/a-single-line-of-python-code-scraping-dataset-from-webpages-c9d2a8805d61)
 - [Scraping Google Maps Reviews](https://towardsdatascience.com/scraping-google-maps-reviews-in-python-2b153c655fc2)
+- [Create a Distill Blog in 90 seconds](https://www.youtube.com/watch?v=ZOBXGxPH3Zo)
   
 
 
@@ -117,7 +118,9 @@ Below are some resources for association rules.
 -["top" python libraries based on GH stars](https://kleiber.me/blog/2020/08/26/top-10-python-nlp-libraries-2020/)
 -[Great Resource on text pre-processing use-cases](https://towardsdatascience.com/nlp-building-text-cleanup-and-preprocessing-pipeline-eba4095245a0)
 -[Paper on Emoji Sentiment](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0144296)
-
+-[If you must wordcloud: A good tutorial](https://www.datacamp.com/community/tutorials/wordcloud-python)
+-[TextBlob](https://textblob.readthedocs.io/en/dev/)
+-[nltk sentiment - Vader - good overview of other toolkits](https://realpython.com/python-nltk-sentiment-analysis/#using-nltks-pre-trained-sentiment-analyzer)
 
 
 ## Scikit Resources
