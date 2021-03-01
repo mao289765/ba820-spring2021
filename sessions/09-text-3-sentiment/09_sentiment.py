@@ -10,15 +10,15 @@
 ##############################################################################
 
 # installs
-! pip install newspaper3k
-! pip install spacy
-! pip install wordcloud
-! pip install emoji
-! pip install nltk
-! pip install scikit-plot
-! pip install umap-learn
-! pip install afinn
-! pip install textblob
+# ! pip install newspaper3k
+# ! pip install spacy
+# ! pip install wordcloud
+# ! pip install emoji
+# ! pip install nltk
+# ! pip install scikit-plot
+# ! pip install umap-learn
+# ! pip install afinn
+# ! pip install textblob
 
 # imports
 import numpy as np
