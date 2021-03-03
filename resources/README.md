@@ -47,6 +47,7 @@ Below are links to resources that make plotting easier for all sorts of tasks, e
 - [Hidden APIS for scraping](https://towardsdatascience.com/a-single-line-of-python-code-scraping-dataset-from-webpages-c9d2a8805d61)
 - [Scraping Google Maps Reviews](https://towardsdatascience.com/scraping-google-maps-reviews-in-python-2b153c655fc2)
 - [Create a Distill Blog in 90 seconds](https://www.youtube.com/watch?v=ZOBXGxPH3Zo)
+-[Streamlit Cheatsheet App](https://share.streamlit.io/daniellewisdl/streamlit-cheat-sheet/app.py)
   
 
 
